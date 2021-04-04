@@ -1,0 +1,22 @@
+*{
+    background-color: #333;
+}
+.wallClock{
+    max-width: 600px;
+    margin: 0 auto;
+}
+canvas{
+ background: #333;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    border: rgb(52, 52, 255) solid 1px;
+    margin-left: 270px;
+    margin-right: 270px;
+    border-radius: 10px;
+    border-style: outset;
+    background-color:darkcyan;
+    margin-top: 0 auto;
+}
